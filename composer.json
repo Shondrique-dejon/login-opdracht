@@ -1,0 +1,15 @@
+{
+    "name": "shoni/login",
+    "autoload": {
+        "psr-4": {
+            "Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shondrique-DeJong",
+            "email": "113175330+Shondrique-dejon@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
